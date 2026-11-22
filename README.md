@@ -9,7 +9,7 @@ The chatbot responds to common greetings and questions using predefined keywords
 
 ## 📌 Features
 
-- 🤖 Simple terminal-based chatbot
+- 🤖 Simple terminal-based chatbot     
 - 👋 Responds to common greetings
 - 😊 Responds to "How are you?" questions
 - 🏷️ Tells the user its name
@@ -63,3 +63,4 @@ You: bye
 ==================================================
 🤖 ChatBot Assistant: Goodbye! Have a wonderful day ahead! 👋
 ==================================================
+
